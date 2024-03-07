@@ -1,0 +1,8 @@
+Push code to github:
+
+git intit
+  -- .git file
+git add -a
+  -- add all file 
+git add <file-name>
+  -- add particular file
